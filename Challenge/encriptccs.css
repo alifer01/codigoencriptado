@@ -1,0 +1,71 @@
+header{
+    background-color: transparent;
+    color: bisque;
+     }
+    
+    body{
+        height: 400px;
+        background-image: url("king5.jpg");
+      background-size: cover;
+        background-repeat:no-repeat;
+        background-position: center center;
+    
+     }    
+        .principal{
+            color: rgb(255, 251, 0);
+            position: relative;
+     left: 400px;   
+        font-family: 'Lucida Sans';
+        font-size: 50px;
+        
+    }
+    .encript{
+        position: relative;
+        font-family: fantasy;
+        background: black;
+        color: green;
+        left: 20px;
+      top: 15px;
+      
+      
+      
+     }
+     .botonesencri{
+    
+    position: relative;
+        left: 50px;
+        top: -50px;
+        size: 100px;
+        background-size: 200px;
+        
+        
+     }
+     .potonesdes{
+         position: relative;
+    left: 50px;
+    top: 30px;
+    size: 100px;
+    background-size: 200px;
+    
+     }
+    
+    
+    .rest {
+    position: relative;
+    background-color: rgb(1, 39, 6); height: 250px;
+    left: 0px;
+    top: 50px;
+    right: 0px;
+    color: rgb(9, 51, 3);
+    font-family: Impact;
+    background-color:black ;
+    }
+    
+    .botoncopiar{
+       position: relative;
+       font-family: fantasy;
+      
+       color: green;
+       left: 20px;
+     top: 15px;
+       }
